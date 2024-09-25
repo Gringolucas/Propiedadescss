@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 309; 
+    src:url("/309.ttf");
+}
+
+#seccion0 {
+    font-family: 309;
+    font-size: large;
+    color: blueviolet;
+}
+#seccion2 {
+    font-family: 309;
+    font-size: large;
+    color: blueviolet;
+}
+#section2 {
+    font-size: 2.5rem;
+    color: rgb(252, 158, 104);
+}
+#section3 {
+    font-size: x-large;
+}
+
+#section2:hover {
+    transform: scale(1.5) rotate(10deg);
+    transition: 3s;
+}
+#section3 > strong {
+    font-size: 0.25em;
+}
+]
